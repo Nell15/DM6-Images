@@ -165,7 +165,7 @@ def energie(image:str or list)->list:
 def energie_min(t:list)->list:
     """energie_min(liste) retourne une copie d'une liste, mais sans sa valeur minimale ( - 1 * celle ci), ici , on enlèvera la première occurence de cette valeur.
     Entrée : une liste de nombre positifs (la liste est donc non vide)
-    Sortie : une liste, comprenant tous les termes de la lsite originale sauf la première occurence du terme minimal"""
+    Sortie : une liste, comprenant tous les termes de la liste originale sauf la première occurence du terme minimal, ansi que l'indice de l'élement retiré de la liste orginale"""
 
     mini, rg = t[0], 0
     for i in range(len(t)):
