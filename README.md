@@ -4,6 +4,9 @@
 ![Image](https://img.shields.io/cocoapods/l/I?color=%230ca6e8)
 
 Voici les résultats donnés par mon code pour le DM6. J'ai inclut l'image guepiersNB.jpg qui nous était fournie et qui m'a servi pour tester chacune des différentes fonctions.
+Voici l'image en question :
+
+![image](https://media.discordapp.net/attachments/914515328510353458/979818671667027998/inconnu.jpeg)
 
 ## Partie 1 : Manipulations élémentaires :
 
