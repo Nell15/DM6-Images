@@ -60,7 +60,7 @@ On observe que l'images se trouve distordue, en effet, la suppression ne se base
 
 ### Réduction colonne :
 
-Sur une itération, une seule colonne est supprimée, le résultat est donc peu pertinent à afficher. Sur un grand nombre d'executions en revanches, il est intéressant de regarder le résultat. Ici, en plus de regarder l'importances des pixels dans les lignes, on s'intéresse aux colonnes afin de garder une cohérence dans l'image. Ainsi on a plus de chance de garder une image relativement fidèle à l'image d'origine. En effet, à moins d'avoir de larges zones de faibles variation de couleurs, l'image devrait assez bien conserver sa forme.
+Sur une itération, une seule colonne est supprimée, le résultat est donc peu pertinent à afficher. Sur un grand nombre d'executions en revanches, il est intéressant de regarder le résultat. Ici, en plus de regarder l'importances des pixels dans les lignes, on s'intéresse aux colonnes afin de garder une cohérence dans l'image. Ainsi on a plus de chance de garder une image relativement fidèle à l'image d'origine. En effet, à moins d'avoir de larges zones de faibles variation de couleurs, l'image devrait assez bien conserver sa forme. (ici j'ai effectué 150 itérations; ie la largeur de l'image est réduite de 150 pixels)
 
 ![image](https://media.discordapp.net/attachments/914515328510353458/979677260913213480/unknown.png)
 
