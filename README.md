@@ -65,6 +65,3 @@ Sur une itération, une seule colonne est supprimée, le résultat est donc peu 
 ![image](https://media.discordapp.net/attachments/914515328510353458/979677260913213480/unknown.png)
 
 ## Fin
-
-Merci d'avoir lu mes travaux :D
-NT.
