@@ -50,6 +50,12 @@ Réduit la largeur de l'image de moitié.
 
 ![image](https://media.discordapp.net/attachments/914515328510353458/979675236943417364/unknown.png)
 
+### Energie():
+
+Permet de voir redéfinir une image selon "l'importance" de ses pixels, c'est à dire s'ils diffèrent beaucoup ou non de leurs voisins.
+
+![image](https://media.discordapp.net/attachments/914515328510353458/979715840452743208/unknown.png)
+
 ### Réduction ligne
 
 Sur une itération, une seule colonne est supprimée, le résultat est donc peu pertinent à afficher. Sur un grand nombre d'executions en revanches, on obtient des résultats intéressants : ici avec seulement 50 itérations on obtient :
