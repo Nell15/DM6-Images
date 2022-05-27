@@ -3,7 +3,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 ![Image](https://img.shields.io/cocoapods/l/I?color=%230ca6e8)
 
-J'ai la gigaflemme de faire un readme juste pour ceux qui vont copier donc je vais pas beaucoup rédiger. Je vais cela dit joindre des images données par mon code.
+Voici les résultats donnés par mon code pour le DM6. J'ai inclut l'image guepiersNB.jpg qui nous était fournie et qui m'a servi pour tester chacune des différentes fonctions.
 
 ## Partie 1 : Manipulations élémentaires :
 
