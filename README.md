@@ -52,7 +52,7 @@ Réduit la largeur de l'image de moitié.
 
 ### Energie():
 
-Permet de voir redéfinir une image selon "l'importance" de ses pixels, c'est à dire s'ils diffèrent beaucoup ou non de leurs voisins.
+Permet de voir redéfinir une image selon "l'importance" de ses pixels, c'est à dire s'ils diffèrent beaucoup ou non de leurs voisins. Plus un pixel est sombre, moins son niveau de couleur est éloigné de ses voisins.
 
 ![image](https://media.discordapp.net/attachments/914515328510353458/979715840452743208/unknown.png)
 
